@@ -131,7 +131,7 @@ jupyter notebook
 
 ## 👤 Author
 
-**Jeisson David Sanchez Gomez - ECI 2026**
+**Jeisson David Sanchez Gomez - ECI 2026-1**
 
 
 ---
